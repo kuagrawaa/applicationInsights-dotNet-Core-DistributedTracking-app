@@ -1,0 +1,1 @@
+# applicationInsights-dotNet-Core-DistributedTracking-app
